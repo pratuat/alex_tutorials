@@ -14,13 +14,9 @@ is_active = True
 # array: list of data (list of any set of data), data could be numbers or strings or boolean
 
 # Python list
-shopping_list = [
-    "Banana",
-    "Milk",
-    "Juice",
-    "Pasta",
-    "Ice-cream"
-]
+shopping_list = ["Banana","Milk", "Juice", "Pasta", "Ice-cream"]
+list_of_numbers = [1, 2, 5, 78, "alex", "malla"]
+
 
 # Real world list
 Key/Index         Value
