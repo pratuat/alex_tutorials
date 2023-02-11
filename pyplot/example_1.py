@@ -16,11 +16,11 @@ y = [3, 8, 15]
 # %%
 
 # Scatter Plots
-scatter(x, y)
+plt.scatter(x, y)
 
 # %%
 
-plot(x, y, color="green", marker='o', markerfacecolor="red")
+plt.plot(x, y, color="green", marker='o', markerfacecolor="red")
 
 
 
